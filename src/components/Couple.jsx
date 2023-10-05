@@ -134,7 +134,7 @@ function Couple() {
                                 <strong>Gadwal Subhan Sahab,</strong>
                             </p>
                             <p className="mt-1 mt-lg-2">
-                                S/O JAnab Gadwal Allabakash Sahab.
+                                S/O JAnab Gadwal Allabakash Sahab,
                             </p>
 
                             {/* <p className="mt-1 mt-lg-2">
