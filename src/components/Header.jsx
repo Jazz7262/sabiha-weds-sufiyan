@@ -14,13 +14,13 @@ function Header() {
                 Merciful
             </h3>
 
-            <h4 className="mt-4">
+            {/* <h4 className="mt-4">
                 Under the spirutual patronage of:
                 <br />
                 Qutub-e-Adoni Qutub-ud-Dawaayir Ashraf-ul-Ma'aasir
                 Sayyid-e-Barhaq Hazrath Sayyid Shah Taher Quadri, Al-Hamavi
                 Rahamatullaahi Alaih, Adoni,
-            </h4>
+            </h4> */}
 
             {/* <h4 className="mt-4">
                 Qutub-ul-Aqtab Hazrath Shaikh Ahmed Bin Salaam Chisti, Al-Maroof
@@ -45,6 +45,14 @@ function Header() {
                 Hazrath Syed Shah Ismail Quadri, Sajjada Nasheen Dargah Niloor
                 Shareef, Gulbarga Dist.
             </h4> */}
+
+            <h4 className="mt-4">
+                Baarakallaahu Laka wa Baaraka 'Alaika Wa Jama'a Bainakumaa Fee
+                Khair
+                <br />
+                Allaah Tumahaare Zindagi mei Barkat de Aur Tum Dono ko Bhalayi
+                ke Sath Zindagi Guzarne ki Taufeeq de - Aameen
+            </h4>
 
             <h4 className="mt-4">
                 Under the Blessings of:
